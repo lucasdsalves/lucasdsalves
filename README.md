@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/lucasdsalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdsalves&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdsalves&layout=compact&langs_count=7&theme=discord_old_blurple"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdsalves&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdsalves&layout=compact&langs_count=7&theme=bear"/></a>
 </div>
 
 <div style="display: inline_block"><br>
