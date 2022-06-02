@@ -1,4 +1,4 @@
-## - Hello, I'm Lucas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## - Hello, I'm Lucas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 <h3 align="center"><i> Welcome to my GitHub! </i></h3><br/>
 
 - 💼 I'm currently working as a Back-end Developer at Cyrela
