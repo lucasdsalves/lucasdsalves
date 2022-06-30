@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdsalves&layout=compact&langs_count=7&theme=bear"/></a>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="dotnet-core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img align="center" alt="dotnet-framework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
@@ -28,3 +28,5 @@
 </div>
 
 ##
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasdsalves" alt="lucasdsalves" /> </p>
