@@ -1,7 +1,7 @@
 ## - Hello, I'm Lucas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 <h3 align="center"><i> Welcome to my GitHub! </i></h3><br/>
 
-- 💼 I'm currently working as a Back-end Developer at Cyrela
+- 💼 I'm currently working as a Back-end Developer at <a href="https://www.cyrela.com.br/" target="_blank">Cyrela</a>
 - 🛠️ I've been working as a developer since 2019
 - 💻 Before join the development world, I worked with IT services and IT projects
 - 👯 Looking for collaboration, portfolio build and seeking to learn
